@@ -159,7 +159,7 @@ li {
   margin-left: 1px;
   background-color: #efefef;
   padding: 20px;
-  border-top: 1px dashed #20409a;
+  border-top: 1px dashed #0054a6;
 }
 .gif-box ul {
     text-align:left;
@@ -209,7 +209,7 @@ input:disabled {
   margin-top: 10px;
 }
 .button.is-success, .button.is-success[disabled] {
-  background-color: #20409a;
+  background-color: #0054a6;
   border-color: transparent;
   color: #fff;
 }
@@ -228,7 +228,7 @@ input:disabled {
   margin-top: 10px;
 }
 .sub-text p {
-  color: #20409a;
+  color: #0054a6;
   font-family: "Barlow Condensed", sans-serif;
   font-weight: 700;
   font-size: 30px;
@@ -238,7 +238,7 @@ input:disabled {
   padding: 1.5rem 1.5rem;
 }
 .input:focus {
-  border-color: #20409a;
+  border-color: #0054a6;
   box-shadow: 0 0 0 0.125em rgba(119, 187, 70, 0.25);
 }
 .fade-enter-active,
