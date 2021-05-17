@@ -5,7 +5,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://raw.githubusercontent.com/ronaldjosephjones/atlanta-basement-systems-signature-generator/e64af68f04f92fbd32760586a4867c64884a3e82/src/assets/Atl-Basement-Systems_Vert_RGB.svg" alt="Atlanta Basement Systems" style="width:275px">
+            <img src="https://cdn.treehouseinternetgroup.com/cms_images/2992/Atl-Basement-Systems_Vert_RGB-logo.svg" alt="Atlanta Basement Systems" style="width:275px">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
